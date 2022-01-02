@@ -1,8 +1,9 @@
-### Hi 👋 I'm Naoko
+### Hello nerds!
 
-A software enginneer from Japan. Introvert with positive attitude. Anime lover.
+* :girl: Naoko Nishimura (she/her)
+* :round_pushpin: Tokyo, Japan
+* :computer: Software engineer. Frontend: 4 years, Backend: 2 years
+* :crab: Typescript, Rust
+* :smiley_cat: A **big** pokemon fan
 
-- 🔭 I’m currently working as Rust/Nodejs backend enginneer. 
-- 🌱 I’m currently learning AWS and kubernetes.
-- 👯 I’m looking to collaborate on Rust or Typescript projects.
-- 💬 Ask me about Design System, i18, and Automation  
+
